@@ -1,0 +1,5 @@
+def Dampichung(n,m) :
+    return 4500*365*n*m
+n=int(input('당신은 몇년이나 담배를 폈나요?'))
+m=int(input('하루에 몇 갑 정도 담배를 피나요?')
+print("당신이 담배에 꼬라박은 돈은", Dampichung(n,m), "원 입니다.")
